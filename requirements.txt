@@ -1,0 +1,5 @@
+numpy==1.18.1
+streamlit==0.63.0
+plotly==4.9.0
+sklearn==0.22.1
+
